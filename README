@@ -1,0 +1,19 @@
+There's no better way to experience the elegance and power of Ruby than to fire up your code editor and start writing Ruby code. Create a small, useful Ruby application, and along the way, you'll learn what makes the language tick.
+
+
+So you've discovered the grace and power of Ruby and you're ready to explore the subtle but important ideas behind its elegance. Follow this tutorial to create a small, useful Ruby application. As Ruby is primarily an object-oriented language with classes and objects, you can jump right in and create a class to encapsulate behavior. The instructions begin with a simple version of the application, and then expand it. Along the way, you will learn what makes Ruby tick.
+
+The example application will serve two purposes:
+
+    Demonstrate some features of Ruby
+    Do something useful in the process
+
+
+
+A word on the title: Were you to write this code yourself, assuming some moderate Ruby knowledge, it probably wouldn't take more than 10 minutes. Once you learn how Ruby works and understand what sort of code it enables, you'll find that you can whip up useful utilities in short order. Of course, a walk-through of such code will take a bit more than 10 minutes if you're new to the language.
+
+What You Need
+This tutorial assumes that you already have a current version of Ruby installed, and you have a code editor handy. You don't need a fancy IDE to code in Ruby; Vim, Emacs, and TextMate are great choices. NetBeans and Eclipse work fine as well.
+
+Target Problem: Simplifying File Launching
+Ruby is primarily a text-based, command-line-oriented language. Some GUI libraries are available, as well as multiple Web application frameworks, but exploring GUI development with Ruby is beyond the scope this article. The goal here is to write something that works from the command line. 
